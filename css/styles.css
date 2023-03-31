@@ -1,0 +1,87 @@
+#title{
+    background-color: #ff4c68;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+.title-img{
+    padding: 6% 3%;
+}
+h1{
+     color: white;
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: 900;
+}
+
+.phone-img{
+     transform: rotate(25deg);
+}
+/* features */
+#features{
+margin: 6% 15%;
+}
+.features-box{
+    text-align: center;
+    padding: 5%;
+}
+
+.icon{
+    color: #ff4c68;
+}
+
+/* testimonials */
+#testimonials{
+    padding: 8% 15%;
+    background-color: #ff4c68;
+    color: white;
+    text-align: center;
+    font-family: bold;
+    line-height: 1.5;
+}
+
+.test-img{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+/* press */
+#press{
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 6% 5%;
+}
+
+/* pricing */
+#pricing{
+    padding: 3% 8%;
+    text-align: center;
+}
+.cards-row{
+    margin-top: 2%;;
+}
+
+/* cta */
+#cta{
+    background-color: #ff4c68;
+    padding: 5% 15%;
+    text-align: center;
+}
+.cta-text{
+    margin-bottom: 20px;
+}
+
+/* footer */
+#footer{
+    text-align: center;
+    padding: 4% 8%;
+}
+
+.social-icon{
+margin-bottom: 20px;
+}
+.s-icon{
+    display: inline;
+    padding: 3% 10px;
+}
